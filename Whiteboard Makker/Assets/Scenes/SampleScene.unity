@@ -755,12 +755,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  jumpForce: 0
-  groundCheck: {fileID: 244184188}
+  jumpForce: 4
+  groundCheck: {fileID: 1843573224}
   groundCheckRadius: 0.2
   groundLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
 --- !u!114 &1988346143
 MonoBehaviour:
   m_ObjectHideFlags: 0

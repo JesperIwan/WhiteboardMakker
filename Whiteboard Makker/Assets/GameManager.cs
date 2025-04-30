@@ -1,8 +1,13 @@
+
+using JetBrains.Annotations;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
+    public List<GameObject> mapParts = new List<GameObject>();
+    public int nr = 0;
 
     private void Awake()
     {
@@ -16,6 +21,20 @@ public class GameManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
+
+        GameObject[] maps = GameObject.FindGameObjectsWithTag("MapPart");
+
+        foreach (GameObject map in maps) {
+            mapParts.Add(map);
+            map.SetActive(false);
+        } 
+        mapParts.Reverse();
+
+        foreach (GameObject map in mapParts) {
+            
+            nr++;
+            Debug.Log(nr + "  " + map.name);
+        }
     }
 
     public void HandleTrigger(string triggerName)
@@ -24,7 +43,9 @@ public class GameManager : MonoBehaviour
         {
             case "Checkpoint1":
                 Debug.Log("Reached Checkpoint 1!");
-                // Do something
+                // Do something 
+                GameObject.Find("Checkpoint1").SetActive(false);
+                mapParts[0].SetActive(true);
                 break;
 
 

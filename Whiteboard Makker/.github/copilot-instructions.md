@@ -2,13 +2,13 @@
 - Project name: Whiteboard Makker
 - Unity version: Unity 6000.0.38f1
 - Active scene:
-  - Name: JOE
+  - Name: JOE + Laura
   - Tags:
-    - Untagged, Respawn, Finish, EditorOnly, MainCamera, Player, GameController
+    - Untagged, Respawn, Finish, EditorOnly, MainCamera, Player, GameController, Bullet
   - Layers:
     - Default, TransparentFX, Ignore Raycast, Ground, Water, UI
 - Active game object:
-  - Name: blank-whiteboard_0
+  - Name: Drawline (1)
   - Tag: Untagged
   - Layer: Default
 <!-- UNITY CODE ASSIST INSTRUCTIONS END -->

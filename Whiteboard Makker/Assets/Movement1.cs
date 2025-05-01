@@ -16,6 +16,14 @@ public class Movement1 : MonoBehaviour
     public Transform groundCheck;
     public float groundCheckRadius = 0.2f;
 
+    //pressure
+    float touchPressure;
+
+
+    public float minJumpForce = 5f;
+    public float maxJumpForce = 12f;
+    public float maxPressure = 1.0f; // Adjust if your device supports higher
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -29,6 +37,15 @@ public class Movement1 : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
             jump = true;
+
+        //Debug.Log("Max possible pressure: " + Input.GetTouch(0).maximumPossiblePressure);
+        //Debug.Log("Current pressure: " + Input.GetTouch(0).pressure);
+        // Debug.Log(Input.touchPressureSupported);
+        if (Input.touchCount > 0)
+        {
+            touchPressure = Input.GetTouch(0).pressure;
+            Debug.Log("tryk pres  "+touchPressure);
+        }
 
     }
 
@@ -59,7 +76,22 @@ public class Movement1 : MonoBehaviour
         jump = false; // Reset jump after applying it
 
     }
+    /*float GetCurrentTouchPressure()
+    {
+       /* if (Input.touchCount > 0)
+        {
+            foreach (Touch t in Input.touches)
+            {
+                if (t.phase == TouchPhase.Began || t.phase == TouchPhase.Stationary || t.phase == TouchPhase.Moved)
+                {
+                    Debug.Log(t.pressure);
+                    return t.pressure;
+                }
+            }
+        }
 
+        return 1.0f; // fallback if pressure data is unavailable
+    }*/
     bool IsGrounded()
     {
         return Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
@@ -72,6 +104,20 @@ public class Movement1 : MonoBehaviour
     public void OnMoveRightDown() => moveRight = true;
     public void OnMoveRightUp() => moveRight = false;
 
-    public void OnJumpButton() => jump = true;
+    public void OnJumpButton()
+    {
+        if (IsGrounded())
+        {
+            //float pressure = GetCurrentTouchPressure();
+            float pressure = touchPressure;
+            Debug.Log("tryk ved knap:  " +  pressure);
+            // Clamp and normalize pressure
+            float normalizedPressure = Mathf.Clamp01(pressure / maxPressure);
+            Debug.Log("tryk ved knap:  " + normalizedPressure);
+            jumpForce = Mathf.Lerp(minJumpForce, maxJumpForce, normalizedPressure);
+
+            jump = true;
+        }
+    }
     public void OnJumpButtonUp() => jump = false;
 }

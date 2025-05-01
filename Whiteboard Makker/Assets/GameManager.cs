@@ -46,6 +46,7 @@ public class GameManager : MonoBehaviour
                 // Do something 
                 GameObject.Find("Checkpoint1").SetActive(false);
                 mapParts[0].SetActive(true);
+
                 break;
 
 

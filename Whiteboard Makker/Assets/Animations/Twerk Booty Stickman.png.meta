@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 7011505b55dc548d79a72999f4e02d59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1998933403332795660
+    second: Twerk Booty Stickman_0
+  - first:
+      213: -4682877829509671539
+    second: Twerk Booty Stickman_1
+  - first:
+      213: -1178966834342232178
+    second: Twerk Booty Stickman_2
+  - first:
+      213: 608766631789488528
+    second: Twerk Booty Stickman_3
+  - first:
+      213: 5878135461864380002
+    second: Twerk Booty Stickman_4
+  - first:
+      213: 513727639537413295
+    second: Twerk Booty Stickman_5
+  - first:
+      213: -5377518515845151922
+    second: Twerk Booty Stickman_6
+  - first:
+      213: 2293909210731279302
+    second: Twerk Booty Stickman_7
+  - first:
+      213: 3241166807390905164
+    second: Twerk Booty Stickman_8
+  - first:
+      213: 4166077458514345399
+    second: Twerk Booty Stickman_9
+  - first:
+      213: -2649913995398735524
+    second: Twerk Booty Stickman_10
+  - first:
+      213: -13710712100514118
+    second: Twerk Booty Stickman_11
+  - first:
+      213: -4479974762932104999
+    second: Twerk Booty Stickman_12
+  - first:
+      213: -2718825277689234624
+    second: Twerk Booty Stickman_13
+  - first:
+      213: 4068318951328221796
+    second: Twerk Booty Stickman_14
+  - first:
+      213: 7014005260966530180
+    second: Twerk Booty Stickman_15
+  - first:
+      213: 2213369455585050286
+    second: Twerk Booty Stickman_16
+  - first:
+      213: 1215841584283987338
+    second: Twerk Booty Stickman_17
+  - first:
+      213: -8719055447517237542
+    second: Twerk Booty Stickman_18
+  - first:
+      213: 7322081010561042451
+    second: Twerk Booty Stickman_19
+  - first:
+      213: -4671505125256188692
+    second: Twerk Booty Stickman_20
+  - first:
+      213: -4022729907145237597
+    second: Twerk Booty Stickman_21
+  - first:
+      213: 3364509042717432663
+    second: Twerk Booty Stickman_22
+  - first:
+      213: -8222780196517362623
+    second: Twerk Booty Stickman_23
+  - first:
+      213: -5705563139625166909
+    second: Twerk Booty Stickman_24
+  - first:
+      213: -4829112780021727522
+    second: Twerk Booty Stickman_25
+  - first:
+      213: -2722407002643139181
+    second: Twerk Booty Stickman_26
+  - first:
+      213: 3527518950131246797
+    second: Twerk Booty Stickman_27
+  - first:
+      213: -3719492756319232081
+    second: Twerk Booty Stickman_28
+  - first:
+      213: 3344102308122161681
+    second: Twerk Booty Stickman_29
+  - first:
+      213: 3794462123732278864
+    second: Twerk Booty Stickman_30
+  - first:
+      213: -4491504393981845455
+    second: Twerk Booty Stickman_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2afa419ac5244e0800000000000000
+      internalID: -1998933403332795660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85168dcc63130fb0800000000000000
+      internalID: -4682877829509671539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f701d19e773afe0800000000000000
+      internalID: -1178966834342232178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0996ce6b606c27800800000000000000
+      internalID: 608766631789488528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2669d021f05539150800000000000000
+      internalID: 5878135461864380002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac6de9f090212700800000000000000
+      internalID: 513727639537413295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43c6f1b6673f55b0800000000000000
+      internalID: -5377518515845151922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c372a4064a95df10800000000000000
+      internalID: 2293909210731279302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c436254f900fafc20800000000000000
+      internalID: 3241166807390905164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd728d2061e0d930800000000000000
+      internalID: 4166077458514345399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c591ce2d24d993bd0800000000000000
+      internalID: -2649913995398735524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab691a31e2a4fcff0800000000000000
+      internalID: -13710712100514118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d097b460bee3d1c0800000000000000
+      internalID: -4479974762932104999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bfafc90dac44ad0800000000000000
+      internalID: -2718825277689234624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a88e60882957830800000000000000
+      internalID: 4068318951328221796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_15
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c81a08f90c65160800000000000000
+      internalID: 7014005260966530180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeb8dcfac777be10800000000000000
+      internalID: 2213369455585050286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d2566aa798fd010800000000000000
+      internalID: 1215841584283987338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeecc91441bff680800000000000000
+      internalID: -8719055447517237542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318cf1392e14d9560800000000000000
+      internalID: 7322081010561042451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec20bad6da7b2fb0800000000000000
+      internalID: -4671505125256188692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab944976746c28c0800000000000000
+      internalID: -4022729907145237597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b13cef52321be20800000000000000
+      internalID: 3364509042717432663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14447783af0d2ed80800000000000000
+      internalID: -8222780196517362623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7541bcd84c1d0b0800000000000000
+      internalID: -5705563139625166909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede7186238b8bfcb0800000000000000
+      internalID: -4829112780021727522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3957b694141183ad0800000000000000
+      internalID: -2722407002643139181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc62809abc344f030800000000000000
+      internalID: 3527518950131246797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf14fa7b05b16cc0800000000000000
+      internalID: -3719492756319232081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1127f28d453a86e20800000000000000
+      internalID: 3344102308122161681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e9cb69233a8a430800000000000000
+      internalID: 3794462123732278864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Booty Stickman_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1302b99fc88faa1c0800000000000000
+      internalID: -4491504393981845455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5ff7d896f58c041f5b1871243ae20540
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Twerk Booty Stickman_0: -1998933403332795660
+      Twerk Booty Stickman_1: -4682877829509671539
+      Twerk Booty Stickman_10: -2649913995398735524
+      Twerk Booty Stickman_11: -13710712100514118
+      Twerk Booty Stickman_12: -4479974762932104999
+      Twerk Booty Stickman_13: -2718825277689234624
+      Twerk Booty Stickman_14: 4068318951328221796
+      Twerk Booty Stickman_15: 7014005260966530180
+      Twerk Booty Stickman_16: 2213369455585050286
+      Twerk Booty Stickman_17: 1215841584283987338
+      Twerk Booty Stickman_18: -8719055447517237542
+      Twerk Booty Stickman_19: 7322081010561042451
+      Twerk Booty Stickman_2: -1178966834342232178
+      Twerk Booty Stickman_20: -4671505125256188692
+      Twerk Booty Stickman_21: -4022729907145237597
+      Twerk Booty Stickman_22: 3364509042717432663
+      Twerk Booty Stickman_23: -8222780196517362623
+      Twerk Booty Stickman_24: -5705563139625166909
+      Twerk Booty Stickman_25: -4829112780021727522
+      Twerk Booty Stickman_26: -2722407002643139181
+      Twerk Booty Stickman_27: 3527518950131246797
+      Twerk Booty Stickman_28: -3719492756319232081
+      Twerk Booty Stickman_29: 3344102308122161681
+      Twerk Booty Stickman_3: 608766631789488528
+      Twerk Booty Stickman_30: 3794462123732278864
+      Twerk Booty Stickman_31: -4491504393981845455
+      Twerk Booty Stickman_4: 5878135461864380002
+      Twerk Booty Stickman_5: 513727639537413295
+      Twerk Booty Stickman_6: -5377518515845151922
+      Twerk Booty Stickman_7: 2293909210731279302
+      Twerk Booty Stickman_8: 3241166807390905164
+      Twerk Booty Stickman_9: 4166077458514345399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

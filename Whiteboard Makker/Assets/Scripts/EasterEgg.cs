@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 
 
@@ -18,6 +19,14 @@ public class EasterEgg : MonoBehaviour
     // Prevents the easter egg from triggering more than once
     private bool easterEggActivated = false;
 
+    // Reference to the GameObject to be activated/deactivated
+    public GameObject Stickman;
+
+    // Reference to the GameObject to be activated/deactivated
+    public GameObject TwerkBootyStickman;
+
+    public float twerkingTime = 7f;
+
     void Start()
     {
         // Enable the gyroscope (optional, not required for accelerometer)
@@ -27,6 +36,12 @@ public class EasterEgg : MonoBehaviour
     void Update()
     {
         DetectShake(); // Check for shaking each frame
+        
+        if (Input.GetKeyDown(KeyCode.T)) // Press T for Twerk
+        {
+            TriggerEasterEgg();
+            easterEggActivated = true;
+        }
     }
 
     void DetectShake()
@@ -57,10 +72,36 @@ public class EasterEgg : MonoBehaviour
     // This method runs when the easter egg condition is met
     void TriggerEasterEgg()
     {
+        if (easterEggActivated)
+            return;
+
         Debug.Log("Easter Egg Activated by Shake!");
 
+        TwerkBootyStickman.transform.position = Stickman.transform.position;
+
+        Stickman.SetActive(false);
+        TwerkBootyStickman.SetActive(true);
+
+        StartCoroutine(RevertAfterSeconds(twerkingTime));
+
+        easterEggActivated = true;
+
+        
         // TODO: Replace this with your custom easter egg action
         // For example: show a hidden UI, load a scene, spawn an object, etc.
+    }
+
+    private IEnumerator RevertAfterSeconds(float duration)
+    {
+        yield return new WaitForSeconds(duration);
+        
+        Stickman.transform.position = TwerkBootyStickman.transform.position;
+
+        Stickman.SetActive(true);
+        TwerkBootyStickman.SetActive(false);
+
+        easterEggActivated = false;
+
     }
 }
 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      venstr-knap_0: 4317368637684240937
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

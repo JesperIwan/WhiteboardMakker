@@ -19,11 +19,13 @@ public class TransformCameraIntro : MonoBehaviour
 
     private IEnumerator ZoomSequensce() {
         var cam = GetComponent<Camera>();
-        yield return ZoomIn(cam, 1.5f, 1f, 16f, new Vector3(4, 2, -10));
-        yield return ZoomIn(cam, 4f, 1f, 3f, new Vector3(0, 0, -10));
-        yield return ZoomIn(cam, 1.2f, 2f, 5f, new Vector3(-1, 1, -10));
-        yield return ZoomIn(cam, 1.5f, 1f, 6.5f, new Vector3(4, 2, -10));
-        yield return ZoomIn(cam, 1.5f, 3f, 8f, new Vector3(-1, 1, -10));
+        cam.transform.position = new Vector3(36.7f, -10+46.9f, -10);
+        cam.orthographicSize = 46 ;
+        yield return ZoomIn(cam, 20f, 1f, 16f, new Vector3(55+36.7f, 46.9f, -10));
+        yield return ZoomIn(cam, 10f, 1f, 5f, new Vector3(25+36.7f, -12+46.9f, -10));
+        yield return ZoomIn(cam, 12f, 2f, 3f, new Vector3(-2+36.7f, -5+46.9f, -10));
+        yield return ZoomIn(cam, 15, 1f, 6.5f, new Vector3(35+36.7f, 5+46.9f, -10));
+        yield return ZoomIn(cam, 12f, 3f, 8f, new Vector3(-2+36.7f, -5+46.9f, -10));
     }
 
     private IEnumerator ZoomIn(Camera cam, float targetSize, float duration, float delay, Vector3 targetPosition)

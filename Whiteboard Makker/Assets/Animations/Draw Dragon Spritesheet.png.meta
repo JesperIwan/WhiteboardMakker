@@ -1,0 +1,2558 @@
+fileFormatVersion: 2
+guid: bea6eb349badf449db43222a5eb4ffc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4464479821223439493
+    second: Draw Dragon Spritesheet_0
+  - first:
+      213: -5243895622124637086
+    second: Draw Dragon Spritesheet_1
+  - first:
+      213: -8698121174160506953
+    second: Draw Dragon Spritesheet_2
+  - first:
+      213: -8449984191813035663
+    second: Draw Dragon Spritesheet_3
+  - first:
+      213: 8022410067746488800
+    second: Draw Dragon Spritesheet_4
+  - first:
+      213: 3355121991246471021
+    second: Draw Dragon Spritesheet_5
+  - first:
+      213: 5642650505696698457
+    second: Draw Dragon Spritesheet_6
+  - first:
+      213: -6729393723695195922
+    second: Draw Dragon Spritesheet_7
+  - first:
+      213: -5948153639256033865
+    second: Draw Dragon Spritesheet_8
+  - first:
+      213: 7692946106479408792
+    second: Draw Dragon Spritesheet_9
+  - first:
+      213: 7204813066377865153
+    second: Draw Dragon Spritesheet_10
+  - first:
+      213: -909762228852135728
+    second: Draw Dragon Spritesheet_11
+  - first:
+      213: -706334059316056377
+    second: Draw Dragon Spritesheet_12
+  - first:
+      213: 3016632665931694598
+    second: Draw Dragon Spritesheet_13
+  - first:
+      213: -3928614590495127937
+    second: Draw Dragon Spritesheet_14
+  - first:
+      213: 5291456242628629328
+    second: Draw Dragon Spritesheet_15
+  - first:
+      213: 6327573658405588871
+    second: Draw Dragon Spritesheet_16
+  - first:
+      213: 1663432194687655362
+    second: Draw Dragon Spritesheet_17
+  - first:
+      213: 6787775946057446150
+    second: Draw Dragon Spritesheet_18
+  - first:
+      213: -8777176197998422181
+    second: Draw Dragon Spritesheet_19
+  - first:
+      213: -8717999358066436102
+    second: Draw Dragon Spritesheet_20
+  - first:
+      213: -4634664176076345377
+    second: Draw Dragon Spritesheet_21
+  - first:
+      213: 221690444054822474
+    second: Draw Dragon Spritesheet_22
+  - first:
+      213: 4531991342194564183
+    second: Draw Dragon Spritesheet_23
+  - first:
+      213: 4306804340818385426
+    second: Draw Dragon Spritesheet_24
+  - first:
+      213: -2400101789250747465
+    second: Draw Dragon Spritesheet_25
+  - first:
+      213: 2982678273017953628
+    second: Draw Dragon Spritesheet_26
+  - first:
+      213: -434114792795144899
+    second: Draw Dragon Spritesheet_27
+  - first:
+      213: 2243354778360262419
+    second: Draw Dragon Spritesheet_28
+  - first:
+      213: 6020855611443351594
+    second: Draw Dragon Spritesheet_29
+  - first:
+      213: -4985388477164538327
+    second: Draw Dragon Spritesheet_30
+  - first:
+      213: -6427568434142249194
+    second: Draw Dragon Spritesheet_31
+  - first:
+      213: 2111414571805809043
+    second: Draw Dragon Spritesheet_32
+  - first:
+      213: 8616264813666813916
+    second: Draw Dragon Spritesheet_33
+  - first:
+      213: 272618061146093675
+    second: Draw Dragon Spritesheet_34
+  - first:
+      213: 2506855459529094635
+    second: Draw Dragon Spritesheet_35
+  - first:
+      213: 7335236748493155439
+    second: Draw Dragon Spritesheet_36
+  - first:
+      213: -1887986184114330407
+    second: Draw Dragon Spritesheet_37
+  - first:
+      213: 9131512960001710220
+    second: Draw Dragon Spritesheet_38
+  - first:
+      213: 6869377966741337821
+    second: Draw Dragon Spritesheet_39
+  - first:
+      213: 8838731652574811692
+    second: Draw Dragon Spritesheet_40
+  - first:
+      213: 1790676899533507968
+    second: Draw Dragon Spritesheet_41
+  - first:
+      213: 421653432136979964
+    second: Draw Dragon Spritesheet_42
+  - first:
+      213: 2447171250635422702
+    second: Draw Dragon Spritesheet_43
+  - first:
+      213: 6120629127605394801
+    second: Draw Dragon Spritesheet_44
+  - first:
+      213: 2175775819305109483
+    second: Draw Dragon Spritesheet_45
+  - first:
+      213: 7963305003189429399
+    second: Draw Dragon Spritesheet_46
+  - first:
+      213: -4770874035623107909
+    second: Draw Dragon Spritesheet_47
+  - first:
+      213: -403306009006165218
+    second: Draw Dragon Spritesheet_48
+  - first:
+      213: -3318674849810861160
+    second: Draw Dragon Spritesheet_49
+  - first:
+      213: -6277447160413968149
+    second: Draw Dragon Spritesheet_50
+  - first:
+      213: 9062613261502968031
+    second: Draw Dragon Spritesheet_51
+  - first:
+      213: 3984795368426899497
+    second: Draw Dragon Spritesheet_52
+  - first:
+      213: 1398435613492454314
+    second: Draw Dragon Spritesheet_53
+  - first:
+      213: 5985684496991679310
+    second: Draw Dragon Spritesheet_54
+  - first:
+      213: -5426956882239240919
+    second: Draw Dragon Spritesheet_55
+  - first:
+      213: 2920357514696546098
+    second: Draw Dragon Spritesheet_56
+  - first:
+      213: -5878887766917870819
+    second: Draw Dragon Spritesheet_57
+  - first:
+      213: -8050319418542937613
+    second: Draw Dragon Spritesheet_58
+  - first:
+      213: 5087269705716281946
+    second: Draw Dragon Spritesheet_59
+  - first:
+      213: -4805254074466853306
+    second: Draw Dragon Spritesheet_60
+  - first:
+      213: 578977147130147978
+    second: Draw Dragon Spritesheet_61
+  - first:
+      213: -8398713934174186313
+    second: Draw Dragon Spritesheet_62
+  - first:
+      213: -3791303577676066955
+    second: Draw Dragon Spritesheet_63
+  - first:
+      213: 4142195029792400135
+    second: Draw Dragon Spritesheet_64
+  - first:
+      213: -8065018955931903946
+    second: Draw Dragon Spritesheet_65
+  - first:
+      213: -2026750891712868193
+    second: Draw Dragon Spritesheet_66
+  - first:
+      213: -6411286629077166692
+    second: Draw Dragon Spritesheet_67
+  - first:
+      213: 4859801836630324659
+    second: Draw Dragon Spritesheet_68
+  - first:
+      213: 678891239940276742
+    second: Draw Dragon Spritesheet_69
+  - first:
+      213: 3684884770395455113
+    second: Draw Dragon Spritesheet_70
+  - first:
+      213: -3338788853301816954
+    second: Draw Dragon Spritesheet_71
+  - first:
+      213: 8997535781733641055
+    second: Draw Dragon Spritesheet_72
+  - first:
+      213: 6984374514116718540
+    second: Draw Dragon Spritesheet_73
+  - first:
+      213: -5192531676221302431
+    second: Draw Dragon Spritesheet_74
+  - first:
+      213: 6258586946778100090
+    second: Draw Dragon Spritesheet_75
+  - first:
+      213: -2189506801755911123
+    second: Draw Dragon Spritesheet_76
+  - first:
+      213: 6931381692770446185
+    second: Draw Dragon Spritesheet_77
+  - first:
+      213: 4931903833516143245
+    second: Draw Dragon Spritesheet_78
+  - first:
+      213: -6462336324071742928
+    second: Draw Dragon Spritesheet_79
+  - first:
+      213: 1749874285254605686
+    second: Draw Dragon Spritesheet_80
+  - first:
+      213: 1194481313637649395
+    second: Draw Dragon Spritesheet_81
+  - first:
+      213: 34599182141489334
+    second: Draw Dragon Spritesheet_82
+  - first:
+      213: 2929168860381709980
+    second: Draw Dragon Spritesheet_83
+  - first:
+      213: 2990594523257521286
+    second: Draw Dragon Spritesheet_84
+  - first:
+      213: 4450141882952700922
+    second: Draw Dragon Spritesheet_85
+  - first:
+      213: 8704090358610846574
+    second: Draw Dragon Spritesheet_86
+  - first:
+      213: -3908167446715340373
+    second: Draw Dragon Spritesheet_87
+  - first:
+      213: 6351988668487576106
+    second: Draw Dragon Spritesheet_88
+  - first:
+      213: -6891573318290312782
+    second: Draw Dragon Spritesheet_89
+  - first:
+      213: -5539433751010992440
+    second: Draw Dragon Spritesheet_90
+  - first:
+      213: 694175035383288544
+    second: Draw Dragon Spritesheet_91
+  - first:
+      213: 557718630446218636
+    second: Draw Dragon Spritesheet_92
+  - first:
+      213: -759910032200558340
+    second: Draw Dragon Spritesheet_93
+  - first:
+      213: 1579322799321128417
+    second: Draw Dragon Spritesheet_94
+  - first:
+      213: 2618801661520368167
+    second: Draw Dragon Spritesheet_95
+  - first:
+      213: -8284616679501568579
+    second: Draw Dragon Spritesheet_96
+  - first:
+      213: -1221556432987218626
+    second: Draw Dragon Spritesheet_97
+  - first:
+      213: -1746182409819467504
+    second: Draw Dragon Spritesheet_98
+  - first:
+      213: 8575831492903192220
+    second: Draw Dragon Spritesheet_99
+  - first:
+      213: -9153037723505726055
+    second: Draw Dragon Spritesheet_100
+  - first:
+      213: -5748515689943844806
+    second: Draw Dragon Spritesheet_101
+  - first:
+      213: -5917164098753932640
+    second: Draw Dragon Spritesheet_102
+  - first:
+      213: -3225491423797287600
+    second: Draw Dragon Spritesheet_103
+  - first:
+      213: 752664540868026559
+    second: Draw Dragon Spritesheet_104
+  - first:
+      213: -7287993560489668889
+    second: Draw Dragon Spritesheet_105
+  - first:
+      213: 6479259434106421090
+    second: Draw Dragon Spritesheet_106
+  - first:
+      213: 6349955435471832346
+    second: Draw Dragon Spritesheet_107
+  - first:
+      213: 8167067485779769420
+    second: Draw Dragon Spritesheet_108
+  - first:
+      213: 5063445927998757386
+    second: Draw Dragon Spritesheet_109
+  - first:
+      213: 4340394036699805780
+    second: Draw Dragon Spritesheet_110
+  - first:
+      213: 8114652195679751391
+    second: Draw Dragon Spritesheet_111
+  - first:
+      213: 8934088121121082870
+    second: Draw Dragon Spritesheet_112
+  - first:
+      213: -2897789230307968855
+    second: Draw Dragon Spritesheet_113
+  - first:
+      213: -1039178675014994987
+    second: Draw Dragon Spritesheet_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3204
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73d315a14bfa02c0800000000000000
+      internalID: -4464479821223439493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3204
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264f80c07b0f937b0800000000000000
+      internalID: -5243895622124637086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 3204
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bffbd070e01a4780800000000000000
+      internalID: -8698121174160506953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 3204
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1795151c520abba80800000000000000
+      internalID: -8449984191813035663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 3204
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e10c8ab373555f60800000000000000
+      internalID: 8022410067746488800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 3204
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fd852cca9cf8e20800000000000000
+      internalID: 3355121991246471021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 3204
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950eab72db8be4e40800000000000000
+      internalID: 5642650505696698457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 3204
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee89769ef046c92a0800000000000000
+      internalID: -6729393723695195922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 3204
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b572be97c9e37da0800000000000000
+      internalID: -5948153639256033865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2848
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896fde099b5d2ca60800000000000000
+      internalID: 7692946106479408792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2848
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7ab86af43acf360800000000000000
+      internalID: 7204813066377865153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2848
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8633fa210ef53f0800000000000000
+      internalID: -909762228852135728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2848
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cee4b55ae89236f0800000000000000
+      internalID: -706334059316056377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2848
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602c2b64d6b3dd920800000000000000
+      internalID: 3016632665931694598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 2848
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f760f1a38d1ca79c0800000000000000
+      internalID: -3928614590495127937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2848
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0531766da670f6940800000000000000
+      internalID: 5291456242628629328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 2848
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f4267a7be00d750800000000000000
+      internalID: 6327573658405588871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 2848
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd5e4094c2b51710800000000000000
+      internalID: 1663432194687655362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2492
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603f1bf7246033e50800000000000000
+      internalID: 6787775946057446150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2492
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b575a4b50c4313680800000000000000
+      internalID: -8777176197998422181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2492
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7dd5616c1730780800000000000000
+      internalID: -8717999358066436102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2492
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfadb3cc7d5eafb0800000000000000
+      internalID: -4634664176076345377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2492
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e7cf7c84a931300800000000000000
+      internalID: 221690444054822474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 2492
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c17ac3d1ed4ee30800000000000000
+      internalID: 4531991342194564183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2492
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a1793cab7d4cb30800000000000000
+      internalID: 4306804340818385426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 2492
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b30ee2932021bed0800000000000000
+      internalID: -2400101789250747465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 2492
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5db28e161a946920800000000000000
+      internalID: 2982678273017953628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2136
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3df3bf55e6b9f9f0800000000000000
+      internalID: -434114792795144899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2136
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fa65df84ff12f10800000000000000
+      internalID: 2243354778360262419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2136
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a209ffb57406e8350800000000000000
+      internalID: 6020855611443351594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2136
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926384ff79750dab0800000000000000
+      internalID: -4985388477164538327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2136
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fff695090bcc6a0800000000000000
+      internalID: -6427568434142249194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 2136
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3999116cd504d4d10800000000000000
+      internalID: 2111414571805809043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2136
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7ce45723f139770800000000000000
+      internalID: 8616264813666813916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 2136
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68f7f5aea888c300800000000000000
+      internalID: 272618061146093675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 2136
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5fa7032c32ac220800000000000000
+      internalID: 2506855459529094635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1780
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c635185fefbc560800000000000000
+      internalID: 7335236748493155439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1780
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4250b81968cc5e0800000000000000
+      internalID: -1887986184114330407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1780
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8817c208a6a9be70800000000000000
+      internalID: 9131512960001710220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1780
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6338f7ddee45f50800000000000000
+      internalID: 6869377966741337821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1780
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2619b0cb9b79aa70800000000000000
+      internalID: 8838731652574811692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 1780
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d41381723c9d810800000000000000
+      internalID: 1790676899533507968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1780
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf559d000930ad500800000000000000
+      internalID: 421653432136979964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 1780
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb3caa694916f120800000000000000
+      internalID: 2447171250635422702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 1780
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d14d853c7d0f450800000000000000
+      internalID: 6120629127605394801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1424
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7c0947498e13e10800000000000000
+      internalID: 2175775819305109483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1424
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794623185b7538e60800000000000000
+      internalID: 7963305003189429399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1424
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2ec8e77537acdb0800000000000000
+      internalID: -4770874035623107909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1424
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e133865525b276af0800000000000000
+      internalID: -403306009006165218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1424
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8933004aec2b1f1d0800000000000000
+      internalID: -3318674849810861160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 1424
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8ad33211702e8a0800000000000000
+      internalID: -6277447160413968149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1424
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0f0acdebed4cd70800000000000000
+      internalID: 9062613261502968031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 1424
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92805b57646dc4730800000000000000
+      internalID: 3984795368426899497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 1424
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3297ff7cd386310800000000000000
+      internalID: 1398435613492454314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1068
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4370c4265c611350800000000000000
+      internalID: 5985684496991679310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1068
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925c4c608739fa4b0800000000000000
+      internalID: -5426956882239240919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1068
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23751a8dfa1378820800000000000000
+      internalID: 2920357514696546098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1068
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b887249bef96ea0800000000000000
+      internalID: -5878887766917870819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1068
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9a1592425874090800000000000000
+      internalID: -8050319418542937613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 1068
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5233d508dc999640800000000000000
+      internalID: 5087269705716281946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1068
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e97ebe0ee405db0800000000000000
+      internalID: -4805254074466853306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 1068
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84f2c3d5a0f80800800000000000000
+      internalID: 578977147130147978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 1068
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b49c67dc26c17b80800000000000000
+      internalID: -8398713934174186313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f43f8bb75926bc0800000000000000
+      internalID: -3791303577676066955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 712
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7032a2dee680c7930800000000000000
+      internalID: 4142195029792400135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 712
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63813e86dfb431090800000000000000
+      internalID: -8065018955931903946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 712
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f909f3b5dc88fd3e0800000000000000
+      internalID: -2026750891712868193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 712
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95d4a087c88607a0800000000000000
+      internalID: -6411286629077166692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 712
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b53427a50c717340800000000000000
+      internalID: 4859801836630324659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 712
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602c3cd5cf7eb6900800000000000000
+      internalID: 678891239940276742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 712
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98efaa1ec27532330800000000000000
+      internalID: 3684884770395455113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 712
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68159e24a3d3aa1d0800000000000000
+      internalID: -3338788853301816954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ba91c5f1baddc70800000000000000
+      internalID: 8997535781733641055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 356
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfe734ad9b7de060800000000000000
+      internalID: 6984374514116718540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 356
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1699dd1a3fb60f7b0800000000000000
+      internalID: -5192531676221302431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 356
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71fa9e2ba7fad650800000000000000
+      internalID: 6258586946778100090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 356
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c89001a2f4d91e0800000000000000
+      internalID: -2189506801755911123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 356
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b6a30fce6313060800000000000000
+      internalID: 6931381692770446185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 356
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82fd1ff764a17440800000000000000
+      internalID: 4931903833516143245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 356
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032a9982a5b2156a0800000000000000
+      internalID: -6462336324071742928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 356
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bf036246dc84810800000000000000
+      internalID: 1749874285254605686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbc6361d66a39010800000000000000
+      internalID: 1194481313637649395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b00019d5cbea7000800000000000000
+      internalID: 34599182141489334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 0
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9600322f8f76a820800000000000000
+      internalID: 2929168860381709980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 0
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6844ef1cfd9b08920800000000000000
+      internalID: 2990594523257521286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 0
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3db75f67412cd30800000000000000
+      internalID: 4450141882952700922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 0
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63e6ed90142bc870800000000000000
+      internalID: 8704090358610846574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 0
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba969cfd96663c9c0800000000000000
+      internalID: -3908167446715340373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 0
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a228a2a0cc62850800000000000000
+      internalID: 6351988668487576106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Dragon Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 0
+        width: 506
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1feb384963c50a0800000000000000
+      internalID: -6891573318290312782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9c0ac00e626a547d08337f8c500806e4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Draw Dragon Spritesheet_0: -4464479821223439493
+      Draw Dragon Spritesheet_1: -5243895622124637086
+      Draw Dragon Spritesheet_10: 7204813066377865153
+      Draw Dragon Spritesheet_11: -909762228852135728
+      Draw Dragon Spritesheet_12: -706334059316056377
+      Draw Dragon Spritesheet_13: 3016632665931694598
+      Draw Dragon Spritesheet_14: -3928614590495127937
+      Draw Dragon Spritesheet_15: 5291456242628629328
+      Draw Dragon Spritesheet_16: 6327573658405588871
+      Draw Dragon Spritesheet_17: 1663432194687655362
+      Draw Dragon Spritesheet_18: 6787775946057446150
+      Draw Dragon Spritesheet_19: -8777176197998422181
+      Draw Dragon Spritesheet_2: -8698121174160506953
+      Draw Dragon Spritesheet_20: -8717999358066436102
+      Draw Dragon Spritesheet_21: -4634664176076345377
+      Draw Dragon Spritesheet_22: 221690444054822474
+      Draw Dragon Spritesheet_23: 4531991342194564183
+      Draw Dragon Spritesheet_24: 4306804340818385426
+      Draw Dragon Spritesheet_25: -2400101789250747465
+      Draw Dragon Spritesheet_26: 2982678273017953628
+      Draw Dragon Spritesheet_27: -434114792795144899
+      Draw Dragon Spritesheet_28: 2243354778360262419
+      Draw Dragon Spritesheet_29: 6020855611443351594
+      Draw Dragon Spritesheet_3: -8449984191813035663
+      Draw Dragon Spritesheet_30: -4985388477164538327
+      Draw Dragon Spritesheet_31: -6427568434142249194
+      Draw Dragon Spritesheet_32: 2111414571805809043
+      Draw Dragon Spritesheet_33: 8616264813666813916
+      Draw Dragon Spritesheet_34: 272618061146093675
+      Draw Dragon Spritesheet_35: 2506855459529094635
+      Draw Dragon Spritesheet_36: 7335236748493155439
+      Draw Dragon Spritesheet_37: -1887986184114330407
+      Draw Dragon Spritesheet_38: 9131512960001710220
+      Draw Dragon Spritesheet_39: 6869377966741337821
+      Draw Dragon Spritesheet_4: 8022410067746488800
+      Draw Dragon Spritesheet_40: 8838731652574811692
+      Draw Dragon Spritesheet_41: 1790676899533507968
+      Draw Dragon Spritesheet_42: 421653432136979964
+      Draw Dragon Spritesheet_43: 2447171250635422702
+      Draw Dragon Spritesheet_44: 6120629127605394801
+      Draw Dragon Spritesheet_45: 2175775819305109483
+      Draw Dragon Spritesheet_46: 7963305003189429399
+      Draw Dragon Spritesheet_47: -4770874035623107909
+      Draw Dragon Spritesheet_48: -403306009006165218
+      Draw Dragon Spritesheet_49: -3318674849810861160
+      Draw Dragon Spritesheet_5: 3355121991246471021
+      Draw Dragon Spritesheet_50: -6277447160413968149
+      Draw Dragon Spritesheet_51: 9062613261502968031
+      Draw Dragon Spritesheet_52: 3984795368426899497
+      Draw Dragon Spritesheet_53: 1398435613492454314
+      Draw Dragon Spritesheet_54: 5985684496991679310
+      Draw Dragon Spritesheet_55: -5426956882239240919
+      Draw Dragon Spritesheet_56: 2920357514696546098
+      Draw Dragon Spritesheet_57: -5878887766917870819
+      Draw Dragon Spritesheet_58: -8050319418542937613
+      Draw Dragon Spritesheet_59: 5087269705716281946
+      Draw Dragon Spritesheet_6: 5642650505696698457
+      Draw Dragon Spritesheet_60: -4805254074466853306
+      Draw Dragon Spritesheet_61: 578977147130147978
+      Draw Dragon Spritesheet_62: -8398713934174186313
+      Draw Dragon Spritesheet_63: -3791303577676066955
+      Draw Dragon Spritesheet_64: 4142195029792400135
+      Draw Dragon Spritesheet_65: -8065018955931903946
+      Draw Dragon Spritesheet_66: -2026750891712868193
+      Draw Dragon Spritesheet_67: -6411286629077166692
+      Draw Dragon Spritesheet_68: 4859801836630324659
+      Draw Dragon Spritesheet_69: 678891239940276742
+      Draw Dragon Spritesheet_7: -6729393723695195922
+      Draw Dragon Spritesheet_70: 3684884770395455113
+      Draw Dragon Spritesheet_71: -3338788853301816954
+      Draw Dragon Spritesheet_72: 8997535781733641055
+      Draw Dragon Spritesheet_73: 6984374514116718540
+      Draw Dragon Spritesheet_74: -5192531676221302431
+      Draw Dragon Spritesheet_75: 6258586946778100090
+      Draw Dragon Spritesheet_76: -2189506801755911123
+      Draw Dragon Spritesheet_77: 6931381692770446185
+      Draw Dragon Spritesheet_78: 4931903833516143245
+      Draw Dragon Spritesheet_79: -6462336324071742928
+      Draw Dragon Spritesheet_8: -5948153639256033865
+      Draw Dragon Spritesheet_80: 1749874285254605686
+      Draw Dragon Spritesheet_81: 1194481313637649395
+      Draw Dragon Spritesheet_82: 34599182141489334
+      Draw Dragon Spritesheet_83: 2929168860381709980
+      Draw Dragon Spritesheet_84: 2990594523257521286
+      Draw Dragon Spritesheet_85: 4450141882952700922
+      Draw Dragon Spritesheet_86: 8704090358610846574
+      Draw Dragon Spritesheet_87: -3908167446715340373
+      Draw Dragon Spritesheet_88: 6351988668487576106
+      Draw Dragon Spritesheet_89: -6891573318290312782
+      Draw Dragon Spritesheet_9: 7692946106479408792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -36,11 +36,11 @@ public class Movement1 : MonoBehaviour
         if (moveLeft) moveDirection -= 1f;
         if (moveRight) moveDirection += 1f;
 
-        rb.velocity = new Vector2(moveDirection * moveSpeed, rb.velocity.y);
+        rb.linearVelocity = new Vector2(moveDirection * moveSpeed, rb.linearVelocity.y);
 
         if (jump && IsGrounded())
         {
-            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
 
         jump = false; // Reset jump after applying it

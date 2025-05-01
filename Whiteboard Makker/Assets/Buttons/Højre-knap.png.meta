@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "H\xF8jre-knap_0": -5110014506396171653
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

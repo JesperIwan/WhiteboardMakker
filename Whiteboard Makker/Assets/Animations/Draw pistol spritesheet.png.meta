@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 0d77f08bd30734d5e99252228eda53e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1918505516875741450
+    second: Draw pistol spritesheet_0
+  - first:
+      213: -7797735280789270083
+    second: Draw pistol spritesheet_1
+  - first:
+      213: 2065420111428542429
+    second: Draw pistol spritesheet_2
+  - first:
+      213: -6030190635664632531
+    second: Draw pistol spritesheet_3
+  - first:
+      213: -3093723487635783877
+    second: Draw pistol spritesheet_4
+  - first:
+      213: 9165811021065500421
+    second: Draw pistol spritesheet_5
+  - first:
+      213: 5083288159228828644
+    second: Draw pistol spritesheet_6
+  - first:
+      213: -9173214376280912477
+    second: Draw pistol spritesheet_7
+  - first:
+      213: -3201259163163573058
+    second: Draw pistol spritesheet_8
+  - first:
+      213: -4043584866259054648
+    second: Draw pistol spritesheet_9
+  - first:
+      213: -3097536300974435510
+    second: Draw pistol spritesheet_10
+  - first:
+      213: 5196796458459995118
+    second: Draw pistol spritesheet_11
+  - first:
+      213: 8548880665002011971
+    second: Draw pistol spritesheet_12
+  - first:
+      213: 5452974677311977555
+    second: Draw pistol spritesheet_13
+  - first:
+      213: -8522578587155294352
+    second: Draw pistol spritesheet_14
+  - first:
+      213: -2723639732983317235
+    second: Draw pistol spritesheet_15
+  - first:
+      213: 5734889870394902997
+    second: Draw pistol spritesheet_16
+  - first:
+      213: -1930427591747189017
+    second: Draw pistol spritesheet_17
+  - first:
+      213: 784773319122365342
+    second: Draw pistol spritesheet_18
+  - first:
+      213: -374361515635906623
+    second: Draw pistol spritesheet_19
+  - first:
+      213: -8956719046198810797
+    second: Draw pistol spritesheet_20
+  - first:
+      213: 9076825656542158015
+    second: Draw pistol spritesheet_21
+  - first:
+      213: -8271150828779795157
+    second: Draw pistol spritesheet_22
+  - first:
+      213: 1044527386618144749
+    second: Draw pistol spritesheet_23
+  - first:
+      213: 7373437122779465740
+    second: Draw pistol spritesheet_24
+  - first:
+      213: -1092130522513920000
+    second: Draw pistol spritesheet_25
+  - first:
+      213: 8108890724975154264
+    second: Draw pistol spritesheet_26
+  - first:
+      213: -9095596656847177582
+    second: Draw pistol spritesheet_27
+  - first:
+      213: -1635321622358796325
+    second: Draw pistol spritesheet_28
+  - first:
+      213: -5480383283510928943
+    second: Draw pistol spritesheet_29
+  - first:
+      213: 1360733274410254620
+    second: Draw pistol spritesheet_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1345
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0971095a96ef9a10800000000000000
+      internalID: 1918505516875741450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1345
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db156088311e8c390800000000000000
+      internalID: -7797735280789270083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1345
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf55a5f5a8d9ac10800000000000000
+      internalID: 2065420111428542429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1345
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d259251f095705ca0800000000000000
+      internalID: -6030190635664632531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1345
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fbf2611e2e015d0800000000000000
+      internalID: -3093723487635783877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1345
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50738f4af80833f70800000000000000
+      internalID: 9165811021065500421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1076
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb98cdf5a77b8640800000000000000
+      internalID: 5083288159228828644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1076
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad0545602232b080800000000000000
+      internalID: -9173214376280912477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1076
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4cba980c7d293d0800000000000000
+      internalID: -3201259163163573058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1076
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfcb7becfc42e7c0800000000000000
+      internalID: -4043584866259054648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1076
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a439a8d45275305d0800000000000000
+      internalID: -3097536300974435510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1076
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb148c58dabe1840800000000000000
+      internalID: 5196796458459995118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 807
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d66a0cba9b3a670800000000000000
+      internalID: 8548880665002011971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 807
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3587162f39bdcab40800000000000000
+      internalID: 5452974677311977555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 807
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0771246fde7b9b980800000000000000
+      internalID: -8522578587155294352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 807
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0db363e710b33ad0800000000000000
+      internalID: -2723639732983317235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 807
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9cfdec3fb669f40800000000000000
+      internalID: 5734889870394902997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 807
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6cb49455eb535e0800000000000000
+      internalID: -1930427591747189017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 538
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b2e730d2314ea00800000000000000
+      internalID: 784773319122365342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 538
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7e1fa5f200ecaf0800000000000000
+      internalID: -374361515635906623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 538
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35728527b7753b380800000000000000
+      internalID: -8956719046198810797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 538
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcd852f7dc57fd70800000000000000
+      internalID: 9076825656542158015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 538
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d07e6c428f63d80800000000000000
+      internalID: -8271150828779795157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 538
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7aa8dbf18ee7e00800000000000000
+      internalID: 1044527386618144749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08c2fc3ff5b35660800000000000000
+      internalID: 7373437122779465740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 269
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000323d7319f7d0f0800000000000000
+      internalID: -1092130522513920000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 269
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8549a90d621988070800000000000000
+      internalID: 8108890724975154264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 269
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298b468f703f5c180800000000000000
+      internalID: -9095596656847177582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 269
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7d9c516ab2e49e0800000000000000
+      internalID: -1635321622358796325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 269
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d99751a074c1f3b0800000000000000
+      internalID: -5480383283510928943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw pistol spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 380
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11074f14bb42e210800000000000000
+      internalID: 1360733274410254620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b1757c8fff6fc43d8a14f89d5688c32c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Draw pistol spritesheet_0: 1918505516875741450
+      Draw pistol spritesheet_1: -7797735280789270083
+      Draw pistol spritesheet_10: -3097536300974435510
+      Draw pistol spritesheet_11: 5196796458459995118
+      Draw pistol spritesheet_12: 8548880665002011971
+      Draw pistol spritesheet_13: 5452974677311977555
+      Draw pistol spritesheet_14: -8522578587155294352
+      Draw pistol spritesheet_15: -2723639732983317235
+      Draw pistol spritesheet_16: 5734889870394902997
+      Draw pistol spritesheet_17: -1930427591747189017
+      Draw pistol spritesheet_18: 784773319122365342
+      Draw pistol spritesheet_19: -374361515635906623
+      Draw pistol spritesheet_2: 2065420111428542429
+      Draw pistol spritesheet_20: -8956719046198810797
+      Draw pistol spritesheet_21: 9076825656542158015
+      Draw pistol spritesheet_22: -8271150828779795157
+      Draw pistol spritesheet_23: 1044527386618144749
+      Draw pistol spritesheet_24: 7373437122779465740
+      Draw pistol spritesheet_25: -1092130522513920000
+      Draw pistol spritesheet_26: 8108890724975154264
+      Draw pistol spritesheet_27: -9095596656847177582
+      Draw pistol spritesheet_28: -1635321622358796325
+      Draw pistol spritesheet_29: -5480383283510928943
+      Draw pistol spritesheet_3: -6030190635664632531
+      Draw pistol spritesheet_30: 1360733274410254620
+      Draw pistol spritesheet_4: -3093723487635783877
+      Draw pistol spritesheet_5: 9165811021065500421
+      Draw pistol spritesheet_6: 5083288159228828644
+      Draw pistol spritesheet_7: -9173214376280912477
+      Draw pistol spritesheet_8: -3201259163163573058
+      Draw pistol spritesheet_9: -4043584866259054648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

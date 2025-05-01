@@ -75,6 +75,7 @@ public class EasterEgg : MonoBehaviour
         if (easterEggActivated)
             return;
 
+        AudioManager.Instance.PlaySFX("EasterEgg");
         Debug.Log("Easter Egg Activated by Shake!");
 
         TwerkBootyStickman.transform.position = Stickman.transform.position;

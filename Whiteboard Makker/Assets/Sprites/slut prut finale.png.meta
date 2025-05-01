@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 5b440991e5dbca44f836d96133c94f5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3467608060613227836
+    second: slut prut finale_0
+  - first:
+      213: 6961318217442867563
+    second: slut prut finale_1
+  - first:
+      213: 4847553087941691726
+    second: slut prut finale_2
+  - first:
+      213: -6996195706864987731
+    second: slut prut finale_3
+  - first:
+      213: -430415600497901541
+    second: slut prut finale_4
+  - first:
+      213: 8323023837595479779
+    second: slut prut finale_5
+  - first:
+      213: 3645346211534623698
+    second: slut prut finale_6
+  - first:
+      213: -6078935590884466245
+    second: slut prut finale_7
+  - first:
+      213: 5052483707932910139
+    second: slut prut finale_8
+  - first:
+      213: -2679949501978583291
+    second: slut prut finale_9
+  - first:
+      213: -6872426287987949124
+    second: slut prut finale_10
+  - first:
+      213: -8163054588199069793
+    second: slut prut finale_11
+  - first:
+      213: 1000410385789464246
+    second: slut prut finale_12
+  - first:
+      213: -8399807766197895438
+    second: slut prut finale_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slut prut finale_0
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1605
+        width: 456
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35f121b82b6f1030800000000000000
+      internalID: 3467608060613227836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_1
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1595
+        width: 367
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69332f39029b9060800000000000000
+      internalID: 6961318217442867563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_2
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1601
+        width: 458
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49cc9c99d7f54340800000000000000
+      internalID: 4847553087941691726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_3
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1623
+        width: 489
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da11331721588ee90800000000000000
+      internalID: -6996195706864987731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_4
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 1618
+        width: 339
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b104982ba4bd60af0800000000000000
+      internalID: -430415600497901541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_5
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 1614
+        width: 404
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eeacf04512518370800000000000000
+      internalID: 8323023837595479779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_6
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 1601
+        width: 458
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d356d5c01fd69230800000000000000
+      internalID: 3645346211534623698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_7
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 1623
+        width: 489
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb12ad4a94843aba0800000000000000
+      internalID: -6078935590884466245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_8
+      rect:
+        serializedVersion: 2
+        x: 4774
+        y: 1590
+        width: 378
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b322ac4c9270e1640800000000000000
+      internalID: 5052483707932910139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_9
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 1614
+        width: 356
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fd49e7028eecad0800000000000000
+      internalID: -2679949501978583291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_10
+      rect:
+        serializedVersion: 2
+        x: 5575
+        y: 1599
+        width: 516
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb10c67e3bc30a0a0800000000000000
+      internalID: -6872426287987949124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_11
+      rect:
+        serializedVersion: 2
+        x: 6146
+        y: 1615
+        width: 446
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97954c0a1107be80800000000000000
+      internalID: -8163054588199069793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_12
+      rect:
+        serializedVersion: 2
+        x: 6645
+        y: 1595
+        width: 367
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bea79a02fb22ed00800000000000000
+      internalID: 1000410385789464246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slut prut finale_13
+      rect:
+        serializedVersion: 2
+        x: 7041
+        y: 1592
+        width: 395
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fef43a3753ed6b80800000000000000
+      internalID: -8399807766197895438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      slut prut finale_0: 3467608060613227836
+      slut prut finale_1: 6961318217442867563
+      slut prut finale_10: -6872426287987949124
+      slut prut finale_11: -8163054588199069793
+      slut prut finale_12: 1000410385789464246
+      slut prut finale_13: -8399807766197895438
+      slut prut finale_2: 4847553087941691726
+      slut prut finale_3: -6996195706864987731
+      slut prut finale_4: -430415600497901541
+      slut prut finale_5: 8323023837595479779
+      slut prut finale_6: 3645346211534623698
+      slut prut finale_7: -6078935590884466245
+      slut prut finale_8: 5052483707932910139
+      slut prut finale_9: -2679949501978583291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

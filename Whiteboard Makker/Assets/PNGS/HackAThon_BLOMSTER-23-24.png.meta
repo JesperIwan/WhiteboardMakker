@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HackAThon_BLOMSTER-23-24_0: -5060207601227378608
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

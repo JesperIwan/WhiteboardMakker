@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HackAThon_Bygning 3_0: -3031065217938060502
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

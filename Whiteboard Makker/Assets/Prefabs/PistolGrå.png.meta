@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a43c882d281b1a8469cd5afb63b6377d
+guid: 7643f63f509955248992791ed7d52810
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4319395737909131107
-    second: Pistol_0
+      213: -5430401284514137497
+    second: "PistolGr\xE5_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 45
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -126,23 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pistol_0
+      name: "PistolGr\xE5_0"
       rect:
         serializedVersion: 2
-        x: 280
-        y: 187
-        width: 3132
-        height: 2029
+        x: 581
+        y: 481
+        width: 2346
+        height: 1519
       alignment: 9
-      pivot: {x: 0.15631503, y: 0.019741548}
+      pivot: {x: 0.16191281, y: 0.044979777}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 367f86ad98391fb30800000000000000
-      internalID: 4319395737909131107
+      spriteID: 76ab5b0adc653a4b0800000000000000
+      internalID: -5430401284514137497
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 60f2460fa46b9e246b566c7e07af5633
+    spriteID: c046f6871200bf140b36a46af57f5af5
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Pistol_0: 4319395737909131107
+      "PistolGr\xE5_0": -5430401284514137497
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -20,8 +20,8 @@ public class Movement1 : MonoBehaviour
     float touchPressure;
 
 
-    public float minJumpForce = 5f;
-    public float maxJumpForce = 12f;
+    public float minJumpForce = 2f;
+    public float maxJumpForce = 5f;
     public float maxPressure = 1.0f; // Adjust if your device supports higher
 
     private void Start()

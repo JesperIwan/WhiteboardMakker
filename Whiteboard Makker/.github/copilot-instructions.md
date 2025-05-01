@@ -4,11 +4,11 @@
 - Active scene:
   - Name: JOE + Laura + Oscar
   - Tags:
-    - Untagged, Respawn, Finish, EditorOnly, MainCamera, Player, GameController, Bullet
+    - Untagged, Respawn, Finish, EditorOnly, MainCamera, Player, GameController, MapPart, Bullet
   - Layers:
     - Default, TransparentFX, Ignore Raycast, Ground, Water, UI
 - Active game object:
-  - Name: CoolS_0 (3)
+  - Name: Audio Manager
   - Tag: Untagged
   - Layer: Default
 <!-- UNITY CODE ASSIST INSTRUCTIONS END -->

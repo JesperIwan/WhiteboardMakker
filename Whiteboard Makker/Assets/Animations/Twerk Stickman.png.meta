@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 525f344b3ac3740cb8aceee7507d5f8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2136659343950515930
+    second: Twerk Stickman_0
+  - first:
+      213: -1701183292951277315
+    second: Twerk Stickman_1
+  - first:
+      213: 3736606850024570470
+    second: Twerk Stickman_2
+  - first:
+      213: 3368105504138468312
+    second: Twerk Stickman_3
+  - first:
+      213: 3528092078687668900
+    second: Twerk Stickman_4
+  - first:
+      213: 1126555189647263288
+    second: Twerk Stickman_5
+  - first:
+      213: -6718263039295514550
+    second: Twerk Stickman_6
+  - first:
+      213: -672456890286895207
+    second: Twerk Stickman_7
+  - first:
+      213: -8114959657182101740
+    second: Twerk Stickman_8
+  - first:
+      213: -443056860667198917
+    second: Twerk Stickman_9
+  - first:
+      213: 4508230538169482518
+    second: Twerk Stickman_10
+  - first:
+      213: -2986332377329483997
+    second: Twerk Stickman_11
+  - first:
+      213: 8136424084720217460
+    second: Twerk Stickman_12
+  - first:
+      213: -1747896526484930498
+    second: Twerk Stickman_13
+  - first:
+      213: -8515899706768503819
+    second: Twerk Stickman_14
+  - first:
+      213: -5666849460341486780
+    second: Twerk Stickman_15
+  - first:
+      213: -8612484693265287595
+    second: Twerk Stickman_16
+  - first:
+      213: 5912040382421169056
+    second: Twerk Stickman_17
+  - first:
+      213: 1579655849961737131
+    second: Twerk Stickman_18
+  - first:
+      213: -3242060160549444882
+    second: Twerk Stickman_19
+  - first:
+      213: 8847899873099381757
+    second: Twerk Stickman_20
+  - first:
+      213: -5983287676427122720
+    second: Twerk Stickman_21
+  - first:
+      213: 7773055251375157318
+    second: Twerk Stickman_22
+  - first:
+      213: 7429973612297253875
+    second: Twerk Stickman_23
+  - first:
+      213: 2767264664682452438
+    second: Twerk Stickman_24
+  - first:
+      213: -4291929593126774198
+    second: Twerk Stickman_25
+  - first:
+      213: -6797631185711247304
+    second: Twerk Stickman_26
+  - first:
+      213: 517597325032355221
+    second: Twerk Stickman_27
+  - first:
+      213: -5931023757290672582
+    second: Twerk Stickman_28
+  - first:
+      213: -626422632203018952
+    second: Twerk Stickman_29
+  - first:
+      213: 1266863176815579059
+    second: Twerk Stickman_30
+  - first:
+      213: 2256618811940663020
+    second: Twerk Stickman_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Twerk Stickman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade80325a50f6ad10800000000000000
+      internalID: 2136659343950515930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df05fcdeece2468e0800000000000000
+      internalID: -1701183292951277315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e7109f1281bd330800000000000000
+      internalID: 3736606850024570470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db163c6c1aedbe20800000000000000
+      internalID: 3368105504138468312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa4c0d8d0d46f030800000000000000
+      internalID: 3528092078687668900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8364ccae9f352af00800000000000000
+      internalID: 1126555189647263288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4897235c5fe3c2a0800000000000000
+      internalID: -6718263039295514550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 339
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f8fa76504faa6f0800000000000000
+      internalID: -672456890286895207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ff80bcf2fd16f80800000000000000
+      internalID: -8114959657182101740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32c1a4f122f9d9f0800000000000000
+      internalID: -443056860667198917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61df821f9c3709e30800000000000000
+      internalID: 4508230538169482518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f370c668a6e86d0800000000000000
+      internalID: -2986332377329483997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d6eafa8926ae070800000000000000
+      internalID: 8136424084720217460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e300ab2be593eb7e0800000000000000
+      internalID: -1747896526484930498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbc53bf55271d980800000000000000
+      internalID: -8515899706768503819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_15
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 226
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b4bb8a07e4b51b0800000000000000
+      internalID: -5666849460341486780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556fe686dce4a7880800000000000000
+      internalID: -8612484693265287595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a37afb8769cb0250800000000000000
+      internalID: 5912040382421169056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab465c40a01ce510800000000000000
+      internalID: 1579655849961737131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2210e0673e103d0800000000000000
+      internalID: -3242060160549444882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbff407e0e0aca70800000000000000
+      internalID: 8847899873099381757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7c6912f8717fca0800000000000000
+      internalID: -5983287676427122720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64073b551907fdb60800000000000000
+      internalID: 7773055251375157318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 113
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3f08b72a19c1760800000000000000
+      internalID: 7429973612297253875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d553e90d8c476620800000000000000
+      internalID: 2767264664682452438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a11b056c00074c0800000000000000
+      internalID: -4291929593126774198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8305095b376f9a1a0800000000000000
+      internalID: -6797631185711247304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595fe375600ee2700800000000000000
+      internalID: 517597325032355221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e69401155c0bda0800000000000000
+      internalID: -5931023757290672582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d16485fef7e47f0800000000000000
+      internalID: -626422632203018952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf8d11e85dc49110800000000000000
+      internalID: 1266863176815579059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twerk Stickman_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeef277ade115f10800000000000000
+      internalID: 2256618811940663020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 227e144f2821b43878618a608496ac61
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Twerk Stickman_0: 2136659343950515930
+      Twerk Stickman_1: -1701183292951277315
+      Twerk Stickman_10: 4508230538169482518
+      Twerk Stickman_11: -2986332377329483997
+      Twerk Stickman_12: 8136424084720217460
+      Twerk Stickman_13: -1747896526484930498
+      Twerk Stickman_14: -8515899706768503819
+      Twerk Stickman_15: -5666849460341486780
+      Twerk Stickman_16: -8612484693265287595
+      Twerk Stickman_17: 5912040382421169056
+      Twerk Stickman_18: 1579655849961737131
+      Twerk Stickman_19: -3242060160549444882
+      Twerk Stickman_2: 3736606850024570470
+      Twerk Stickman_20: 8847899873099381757
+      Twerk Stickman_21: -5983287676427122720
+      Twerk Stickman_22: 7773055251375157318
+      Twerk Stickman_23: 7429973612297253875
+      Twerk Stickman_24: 2767264664682452438
+      Twerk Stickman_25: -4291929593126774198
+      Twerk Stickman_26: -6797631185711247304
+      Twerk Stickman_27: 517597325032355221
+      Twerk Stickman_28: -5931023757290672582
+      Twerk Stickman_29: -626422632203018952
+      Twerk Stickman_3: 3368105504138468312
+      Twerk Stickman_30: 1266863176815579059
+      Twerk Stickman_31: 2256618811940663020
+      Twerk Stickman_4: 3528092078687668900
+      Twerk Stickman_5: 1126555189647263288
+      Twerk Stickman_6: -6718263039295514550
+      Twerk Stickman_7: -672456890286895207
+      Twerk Stickman_8: -8114959657182101740
+      Twerk Stickman_9: -443056860667198917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

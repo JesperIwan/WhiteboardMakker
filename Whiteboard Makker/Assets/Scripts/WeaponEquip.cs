@@ -12,7 +12,7 @@ public class WeaponEquip : MonoBehaviour
     }
     private void Update()
     {
-        WeaponToEquip(tmp);
+        //WeaponToEquip(tmp);
     }
     public void WeaponToEquip(string weapon)
     {

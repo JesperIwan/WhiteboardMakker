@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - MapPart
+  - Bullet
+  - PrincessAnim
+  - DragonAnim
+  - PlayerAnim
   layers:
   - Default
   - TransparentFX

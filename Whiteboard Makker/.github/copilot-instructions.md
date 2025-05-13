@@ -8,7 +8,7 @@
   - Layers:
     - Default, TransparentFX, Ignore Raycast, Ground, Water, UI
 - Active game object:
-  - Name: CHAR
-  - Tag: Player
+  - Name: Animation stickgirl
+  - Tag: PrincessAnim
   - Layer: Default
 <!-- UNITY CODE ASSIST INSTRUCTIONS END -->

@@ -16,9 +16,6 @@ public class EasterEgg : MonoBehaviour
     // Tracks how long the user has been shaking the device
     private float shakeTimer = 0f;
 
-    // Prevents the easter egg from triggering more than once
-    private bool easterEggActivated = false;
-
     // Reference to the GameObject to be activated/deactivated
     public GameObject Stickman;
 
@@ -40,26 +37,24 @@ public class EasterEgg : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.T)) // Press T for Twerk
         {
             TriggerEasterEgg();
-            easterEggActivated = true;
         }
     }
 
     void DetectShake()
     {
-        // If the easter egg has already been triggered, stop checking
-        if (easterEggActivated)
-            return;
-
         // Get the current acceleration of the device
         Vector3 acceleration = Input.acceleration;
 
         // If the magnitude of acceleration is over the shake threshold
         if (acceleration.sqrMagnitude >= shakeDetectionThreshold * shakeDetectionThreshold)
         {
-            Debug.Log("shake");
             // Increment the shake timer
             shakeTimer += Time.deltaTime;
-             TriggerEasterEgg();
+            if (shakeTimer >= requiredShakeDuration)
+            {
+                TriggerEasterEgg();
+                shakeTimer = 0f; // Reset the timer after triggering the easter egg
+            }
                
         }
         else
@@ -72,9 +67,6 @@ public class EasterEgg : MonoBehaviour
     // This method runs when the easter egg condition is met
     void TriggerEasterEgg()
     {
-        if (easterEggActivated)
-            return;
-
         AudioManager.Instance.PlaySFX("EasterEgg");
         Debug.Log("Easter Egg Activated by Shake!");
 
@@ -85,7 +77,6 @@ public class EasterEgg : MonoBehaviour
 
         StartCoroutine(RevertAfterSeconds(twerkingTime));
 
-        easterEggActivated = true;
 
         
         // TODO: Replace this with your custom easter egg action
@@ -100,9 +91,6 @@ public class EasterEgg : MonoBehaviour
 
         Stickman.SetActive(true);
         TwerkBootyStickman.SetActive(false);
-
-        easterEggActivated = false;
-
     }
 }
 

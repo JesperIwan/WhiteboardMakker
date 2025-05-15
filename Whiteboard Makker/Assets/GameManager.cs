@@ -64,7 +64,7 @@ public class GameManager : MonoBehaviour
 
     
 
-    public void HandleTrigger(string triggerName)
+    public void HandleTrigger(string triggerName)//snakker med collidechekker
     {
         switch (triggerName)
         {

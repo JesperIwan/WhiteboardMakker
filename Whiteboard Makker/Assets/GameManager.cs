@@ -75,8 +75,6 @@ public class GameManager : MonoBehaviour
                 GameObject.Find("Cp1").SetActive(false);
                 
                 //mapParts[0].SetActive(true); 
-               
-
                 break;
             case "Cp2":
                 Debug.Log("Reached Checkpoint 2!");
